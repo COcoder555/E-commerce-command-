@@ -9,12 +9,13 @@
 * Sequilize
 
 ## Instalation:
+User should run npm seed 
 User should run npm start
 
 ## Constructing the Models:
 In the Category.js, Product.js, ProductTag.js, Tag.js files I created models using "sequilize" that established tables in the databse. These tabels were than seeded when the user runs "npm run seed."
 
-## Constructin the Routes: 
+## Constructing the Routes: 
 I created routes in the following files: 
 * category-routes.js
 * product-routes.js
